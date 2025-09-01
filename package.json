@@ -1,0 +1,19 @@
+{
+  "name": "website-detector",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "body-parser": "^2.2.0",
+    "cheerio": "^1.1.2",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "imghash": "^1.1.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^5.16.0",
+    "ssl-checker": "^2.0.10",
+    "string-similarity": "^4.0.4",
+    "tld-extract": "^2.1.0",
+    "whois-json": "^2.0.4"
+  }
+}
