@@ -8,7 +8,9 @@ export async function searchOriginalWebsite(keywords) {
     }
 
     const query = encodeURIComponent(keywords.join(" "));
+    console.log({keywords})
     const url = `https://duckduckgo.com/html/?q=${query}`;
+    console.log({url})
 
     const res = await fetch(url, {
       headers: {

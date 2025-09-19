@@ -11,6 +11,7 @@
     "imghash": "^1.1.0",
     "node-fetch": "^3.3.2",
     "openai": "^5.16.0",
+    "puppeteer": "^24.22.0",
     "ssl-checker": "^2.0.10",
     "string-similarity": "^4.0.4",
     "tld-extract": "^2.1.0",
